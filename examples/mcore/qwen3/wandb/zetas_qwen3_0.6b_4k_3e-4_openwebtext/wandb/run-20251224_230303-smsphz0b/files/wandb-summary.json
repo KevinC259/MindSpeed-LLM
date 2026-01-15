@@ -1,0 +1,1 @@
+{"_runtime":29911.700031077,"lm loss":2.9082372188568115,"num-zeros":0,"grad-norm":0.22769376635551453,"iteration-time":1.4624183177947998,"samples vs steps":1280000,"loss-scale":1,"throughput":55.85090946562707,"_step":20000,"_timestamp":1.7666184776592371e+09,"batch-size":64,"learning-rate":1.2499999968440534e-07,"_wandb":{"runtime":29911}}
